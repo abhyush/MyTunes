@@ -7,7 +7,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Robinhood
+ * @author abhyush
  */
 public class CustomTableModel extends DefaultTableModel{
     private int[] hiddenColumns;
