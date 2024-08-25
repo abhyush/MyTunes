@@ -14,7 +14,7 @@ import javazoom.jl.player.JavaSoundAudioDevice;
 
 /**
  *
- * @author Robinhood
+ * @author abhyush
  */
 public class CustomAudioDevice extends JavaSoundAudioDevice{
     /*private int position;
